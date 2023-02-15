@@ -2,7 +2,7 @@
 A web development assignment where I showcase my php knowledge to mimic a tim horton website
 Users can order by adding specific number of creams and sugars or with the Tim Horton slang
 
-#Run the program
+# Run the program
 
 git clone https://github.com/Jecielrb/TimHortonsWebpage in your terminal
 
