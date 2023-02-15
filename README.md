@@ -1,4 +1,4 @@
-# TimHortonsWebpage
+# Description
 A web development assignment where I showcase my php knowledge to mimic a tim horton website
 Users can order by adding specific number of creams and sugars or with the Tim Horton slang
 
